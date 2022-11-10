@@ -6,4 +6,8 @@ Dataset Link: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athle
 
 Live Demo: - https://olympics-insight.herokuapp.com
 
+![Screenshot (197)](https://user-images.githubusercontent.com/94734991/201014219-e80de75f-8bcf-4899-8d8d-7fd005353e01.png)
+
+
+
 
